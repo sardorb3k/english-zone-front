@@ -27,7 +27,6 @@ export default function Document() {
         <script src="static/js/vendor/jquery-3.5.1.min.js"></script>
         <script src="static/js/swiper-bundle.js"></script>
         
-        <script src="static/js/main-old.js"></script>
       </body>
     </Html>
   );
