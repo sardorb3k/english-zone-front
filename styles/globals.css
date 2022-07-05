@@ -1,16 +1,11 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
-  box-sizing: border-box;
-}
+@import url(preloader.css);
+/* @import url(bootstrap.min.css); */
+@import url(meanmenu.css);
+@import url(animate.min.css);
+/* @import url(owl.carousel.min.css); */
+/* @import url(swiper-bundle.css); */
+@import url(jquery.fancybox.min.css);
+@import url(fontAwesome5Pro.css);
+@import url(elegantFont.css);
+@import url(default.css);
+@import url(style.css);
